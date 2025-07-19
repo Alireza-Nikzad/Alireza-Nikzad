@@ -23,14 +23,12 @@
 
 ## 🧠 Who Am I?
 
-```diff
-+ 🔥 Computer Engineer who codes like an artist
-+ 🤖 ML enthusiast walking the path from beginner to deep learning wizard
-+ 🧪 Always experimenting with AI, CV, and NLP
-+ 🚀 Projects > Certificates
+- 🔥 Computer Engineer who codes like an artist  
+- 🤖 ML enthusiast walking the path from beginner to deep learning wizard  
+- 🧪 Always experimenting with AI, CV, and NLP  
+- 🚀 Projects > Certificates  
 - ❌ Not interested in shortcuts, only mastery
 
-```
 
 ### 🔧 Technologies & Tools
 <p align="center">
