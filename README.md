@@ -12,9 +12,6 @@
   <a href="https://github.com/Alireza-Nikzad">
     <img src="https://img.shields.io/github/followers/Alireza-Nikzad?label=Follow&style=social" alt="GitHub" />
   </a>
-  <a href="mailto:alireza.nikzadghoushchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-blue?style=flat-square&logo=gmail" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Alireza-Nikzad&color=blue" alt="profile views"/>
 </p>
 
