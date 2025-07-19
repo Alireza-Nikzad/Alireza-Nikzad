@@ -31,7 +31,7 @@
 
 ---
 
-### 🔧 My Expertise
+## 🔧 My Expertise
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github,django,linux,html,css,vscode" />
 </p>
