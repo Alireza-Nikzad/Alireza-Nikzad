@@ -20,7 +20,8 @@
 
 ---
 <div align="center">
- ##🧠 Who Am I?
+
+## 🧠 Who Am I?
 
 ```diff
 + 🔥 Computer Engineer who codes like an artist
@@ -28,6 +29,7 @@
 + 🧪 Always experimenting with AI, CV, and NLP
 + 🚀 Projects > Certificates
 - ❌ Not interested in shortcuts, only mastery
+
 ```
 
 ### 🔧 Technologies & Tools
