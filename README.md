@@ -19,7 +19,7 @@
 </p>
 
 ---
-
+<div align="center">
 ## 🧠 Who Am I?
 
 ```diff
