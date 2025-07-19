@@ -1,33 +1,67 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Alireza+Nikzad+%F0%9F%91%8B;Computer+Engineer+%7C+AI+Explorer+%F0%9F%A7%90;Machine+Learning+%2B+CV+Developer+%F0%9F%A4%96;Building+Real+Things+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hey there, I'm Alireza 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Engineer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A7%90;Computer+Vision+Builder+%F0%9F%96%BC%EF%B8%8F;Python+%2F+Django+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%92%AF" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <a href="https://github.com/Alireza-Nikzad"><img src="https://img.shields.io/github/followers/Alireza-Nikzad?label=Followers&style=social" alt="GitHub followers"></a>
+  <a href="mailto:alireza@example.com"><img src="https://img.shields.io/badge/email-Drop%20Me%20a%20Hi-blue" alt="email"></a>
+  <img src="https://komarev.com/ghpvc/?username=Alireza-Nikzad&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
+### 🚀 About Me
+- 🎓 CS student & passionate about **AI** & **Machine Learning**
+- 🤖 Building cool things with **Computer Vision** and **OpenCV**
+- 🌱 Currently learning **Deep Learning**, **TensorFlow**, and **Django**
+- 🧠 Obsessed with mastering **Python**, exploring **NLP**, and building bots
+- 💡 I believe in *learning by doing* — projects are my playground
+
+---
+
+### 🔧 Technologies & Tools
 <p align="center">
-  <a href="https://github.com/Alireza-Nikzad">
-    <img src="https://img.shields.io/github/followers/Alireza-Nikzad?label=Follow&style=social" alt="GitHub" />
-  </a>
-  <a href="mailto:alireza@example.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-blue?style=flat-square&logo=gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Alireza-Nikzad&color=blue" alt="profile views"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github,django,linux,html,css,vscode" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+### 📈 GitHub Stats
 
-```diff
-+ 🔥 Computer Engineer who codes like an artist
-+ 🤖 ML enthusiast walking the path from beginner to deep learning wizard
-+ 🧪 Always experimenting with AI, CV, and NLP
-+ 🚀 Projects > Certificates
-- ❌ Not interested in shortcuts, only mastery
-```
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alireza-Nikzad&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alireza-Nikzad&theme=radical&hide_border=true" />
+</p>
 
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; line-height: 1.8;"> <h2 style="margin-bottom: 10px;">⚙️ Tools I Love</h2> <ul style="list-style: none; padding: 0; margin: 0 0 30px 0;"> <li>🐍 <strong>Python</strong> — the language of power</li> <li>🧠 <strong>TensorFlow &amp; Keras</strong> — for AI magic</li> <li>🎯 <strong>OpenCV</strong> — for computer vision awesomeness</li> <li>🛠️ <strong>Django</strong> — for real-world full-stack apps</li> <li>🧰 <strong>SQLite</strong> — for simple but powerful data work</li> </ul> <h2 style="margin-bottom: 10px;">🧪 Currently Learning</h2> <ul style="list-style: none; padding: 0; margin: 0 0 30px 0; font-weight: bold; color: #d9534f;"> <li> Deep Learning (CNNs, RNNs)</li> <li> Transformer models (🤯)</li> <li> Real-world AI project deployment</li> </ul> <h2 style="margin-bottom: 10px;">🖼️ GitHub Gallery</h2> <p> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alireza-Nikzad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alireza-Nikzad&amp;theme=tokyonight&amp;hide_border=true" /> </p> <p> <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alireza-Nikzad&amp;theme=github_dark" /> </p> <h2 style="margin-bottom: 10px;">🌐 Let's Connect</h2> <p style="font-size: 20px;"> 💼 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;&nbsp;&nbsp; 💬 <a href="https://t.me/your-telegram" target="_blank" rel="noopener noreferrer">Telegram</a> &nbsp;&nbsp;&nbsp; 📸 <a href="https://instagram.com/your-instagram" target="_blank" rel="noopener noreferrer">Instagram</a> &nbsp;&nbsp;&nbsp; 📫 <a href="mailto:your-email@example.com">Email Me</a> </p> </div> ```
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alireza-Nikzad&theme=github_dark" />
+</p>
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🎭 **Real-Time Face Recognition** | Attendance system with OpenCV & face_recognition | `Python`, `OpenCV`, `SQLite` |
+| 😄 **Emotion Detector** | Live emotion detection using Haar Cascades | `Python`, `OpenCV` |
+| 📸 **Image Classifier** | CNN-powered classification with TensorFlow | `Keras`, `Matplotlib`, `NumPy` |
+| 💬 **AI Chatbot** | Natural Language Processing powered bot | `ChatterBot`, `NLTK`, `Python` |
+
+---
+
+### 📫 Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alireza-nikzad"><img src="https://img.shields.io/badge/LinkedIn-Alireza%20Nikzad-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:alireza@example.com"><img src="https://img.shields.io/badge/Gmail-alireza%40example.com-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I write code like poetry — clean, structured, and full of purpose. And yes, I break things... just to learn how to fix them better! 😉
+
+---
+
