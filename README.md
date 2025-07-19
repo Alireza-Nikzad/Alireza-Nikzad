@@ -30,7 +30,7 @@
 
 ## 🔧 My Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,pytorch,github,vscode" />
 </p>
 
 ---
