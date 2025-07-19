@@ -23,7 +23,7 @@
 
 ## 🧠 Who Am I?
 
-<pre lang="text"> ```text 🔥 Computer Engineer who codes like an artist 🤖 ML enthusiast walking the path from beginner to deep learning wizard 🧪 Always experimenting with AI, CV, and NLP 🚀 Projects > Certificates ❌ Not interested in shortcuts, only mastery ``` </pre>
+<pre lang="text"> text 🔥 Computer Engineer who codes like an artist 🤖 ML enthusiast walking the path from beginner to deep learning wizard 🧪 Always experimenting with AI, CV, and NLP 🚀 Projects > Certificates ❌ Not interested in shortcuts, only mastery  </pre>
 
 
 ### 🔧 Technologies & Tools
