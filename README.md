@@ -20,7 +20,7 @@
 
 ---
 <div align="center">
-## 🧠 Who Am I?
+### 🧠 Who Am I?
 
 ```diff
 + 🔥 Computer Engineer who codes like an artist
